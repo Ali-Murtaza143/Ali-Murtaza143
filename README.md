@@ -11,3 +11,11 @@
 - 🌱 I’m trying to improve my skills of Web-designing and Web-development.
 - 🎓 Exploring new technologies and developing software solutions and quick hacks
 
+### Tech Stack 🛠
+- 💻   Python | Java | C++ | SQL |
+- 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🛢   MySQL |Oracle 
+- 🖥   Illustrator| Photoshop | InDesign
+
+
+

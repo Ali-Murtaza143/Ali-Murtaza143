@@ -12,8 +12,8 @@
 - 🎓 Exploring new technologies and developing software solutions and quick hacks
 
 ### Tech Stack 🛠
-- 💻   Python | Java | C++ | SQL |
-- 🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻   C++ | SQL |
+- 🌐   HTML | CSS | JavaScript | Bootstrap | ReactJS
 - 🛢   MySQL |Oracle 
 - 🖥   Illustrator| Photoshop | InDesign
 
